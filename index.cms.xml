@@ -1,11 +1,10 @@
 <cms path="/index" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
-	<tag name="menu" value=" Home" />
-	<tag name="menu-icon" value="icon-home icon-white" />
+	<tag name="menu" value="Startseite" />
 	<tag name="order" value="1" />
 	<content>
 		<lift:surround with="default" at="content" quotes="true">
 			<head>
-				<title>Minerva KundenRechte :: Home</title>
+				<title>Minerva KundenRechte GmbH</title>
 			</head>
 
 			<div class="row-fluid">
@@ -15,8 +14,8 @@
 						<div class="span12">
                             <div class="page-header">
 						   	<h2>
-						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Fachkompetent. Preiswert." id="lift-tt">
-						    	Unabhängige Honorarberatung spezialisiert auf private Krankenversicherung
+						   	   <span title="Aktuarielles Beratungsinstitut für PKV-Kunden. Spezialisiert auf Tarifwechsel in der privaten Krankenversicherung" id="lift-tt">
+						    	Aktuarielles Beratungsinstitut für PKV-Kunden
 						    	</span>
 						   	</h2>
 						   	</div>
