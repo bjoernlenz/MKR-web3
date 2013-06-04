@@ -1,0 +1,56 @@
+<cms path="/logocontainer" type="html" locale="en_US" host="liftweb.net">
+	<content>
+		<div id="logowrapper">
+
+			<div class="row-fluid">
+				<div class="span12">
+
+					<div class="row-fluid" >
+						<div class="span3">
+							<!-- <div class="span6" style="width:50%;min-width: 450px;margin:0px; 
+								border: 1px dotted red;"> -->
+
+							<div class="gradient-panel">
+								<h3>
+									<lift:a name="getting_started">Sofort Loslegen</lift:a>
+								</h3>
+								<p><strong>Get started with Lift. Build your first interactive Lift-powered app.</strong>
+								</p>
+							</div>
+
+							<div class="gradient-panel">
+								<h3>
+									<lift:a name="community">Flying in Formation</lift:a>
+								</h3>
+								<p><strong>Join the warm, welcoming Lift community, ask questions, suggest features, have fun!</strong>
+								</p>
+							</div>
+
+							<!-- </div> -->
+							<!-- <div class="span6" style="width:50%;min-width: 450px;margin:0px; 
+								border: 1px dotted red;"> -->
+
+							<div class="gradient-panel">
+								<h3>
+									<a href="http://liftweb.com">Flying Commercial</a>
+								</h3>
+								<p><strong>Get professional Lift support and consulting from the Lift committers.</strong></p>
+							</div>
+
+							<div class="gradient-panel">
+								<h3>
+									<lift:a name="team">Team</lift:a>
+								</h3>
+								<p><strong>Learn more about the people, who put their efforts into developing the Lift framework.</strong></p>
+							</div>
+
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+			
+		</div>
+	</content>
+</cms>

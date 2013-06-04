@@ -1,0 +1,108 @@
+<cms path="/ueberuns" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<tag name="menu" value=" Über uns" />
+	<tag name="menu-icon" value="icon-user icon-white" />
+	<tag name="order" value="4" />
+	<content>
+		<lift:surround with="default" at="content" quotes="true">
+			<head>
+				<title>Minerva KundenRechte :: Über uns</title>
+			</head>
+
+			<div class="row-fluid">
+				<div class="span12">
+
+					<div class="row-fluid">
+						<div class="span12">
+                            <div class="page-header">
+						   	<h2>
+						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Individuell. Fachkompetent. Preiswert." id="lift-tt">
+						    	Fundierte Kompetenz aus langjähriger Erfahrung
+						    	</span>
+						   	</h2>
+
+						   	</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <div class="row-fluid">
+      <div class="span3">
+<p>
+<img src="../images/Nico_face.jpeg" class="img-rounded" width="200" height="200" alt="Nicola Ferrarese, Geschäftsführer der Minerva KundenRechte GmbH"/>
+<br></br>
+Nicola Ferrarese
+</p>
+</div>
+      <div class="span9">
+<h3>Nicola Ferrarese</h3>
+<p>
+Diplom-Wirtschaftsingenieur<br></br>
+Geschäftsführer und Berater der<br></br>
+Minerva Kundenrechte GmbH
+</p>
+<p>
+Nicola Ferrarese begann seine Karriere nach seinem Studium des Wirtschaftsingenieurwesens in der Projektmanagementberatung, bevor er ganz in die Versicherungsbranche wechselte und dort in verantwortungsvollen Positionen intensive Erfahrungen in der privaten Krankenversicherung sammeln konnte:
+</p>
+<p>
+- Aufbau und Leitung eines zentralen Projektcontrollings in einem Versicherungs-Konzern<br></br>
+- Leitende Funktion Kundenservice/Leistungserstattung in der Krankenversicherung eines Versicherungs-Konzerns<br></br>
+- Hauptabteilungsleiter Antrag/Vertragsbearbeitung für den Spezialaußendienst Krankenversicherung eines Versicherungs-Konzerns<br></br>
+- Hauptabteilungsleiter Unternehmenscontrolling und Unternehmensentwicklung der Krankenversicherung eines Versicherungs-Konzerns.<br></br>
+</p>
+<p>
+Auf Grund seiner breit gefächerten Erfahrung kennt Herr Ferrarese die Sichtweisen und Handlungsoptionen der Versicherer sowie die Anliegen und Rechte der PKV-Kunden in Bezug auf die private Krankenversicherung sehr gut. Sein wichtigster Leitsatz: Versicherungen sind für den Kunden da, strikte Kundenorientierung steht an oberster Stelle. 
+</p>
+<p>
+Nicola Ferrarese ist überzeugt von der Überlegenheit des deutschen Systems der privaten Kranken-Vollversicherung. Es liegt ihm sehr am Herzen den PKV-Kunden zu helfen, bestehende Missstände des Systems zu umschiffen und bestmögliche finanzierbare Lösungen für die Kranken-Vollversicherung zu finden.
+</p>
+</div>
+    </div>
+    <div class="row-fluid">
+      <div class="span3">
+<p>
+<img src="../images/Bjoern_face.jpeg" class="img-rounded" width="200" height="200" alt="Dr. Björn Lenz, Geschäftsführer der Minerva KundenRechte GmbH"/>
+<br></br>
+Dr. Björn Lenz
+</p>
+</div>
+      <div class="span9">
+<h3>Dr. Björn Lenz</h3>
+<p>
+Diplom-Mathematiker<br></br>
+Diplom-Kaufmann<br></br>
+Aktuar (DAV)<br></br>
+Geschäftsführer und Berater der<br></br>
+Minerva KundenRechte GmbH
+</p>
+<p>
+Dr. Björn Lenz begann seine Laufbahn in der Versicherungsbranche bereits parallel zu seinem Studium der Mathematik und der Wirtschaftswissenschaften und konnte zielgerichtet fundierte Erfahrungen in der versicherungstechnischen Datenanalyse sammeln:
+</p>
+<p>
+- aktuarielles Controlling in der Krankenversicherung eines Versicherungs-Konzerns<br></br>
+- Stab des Vorstands der Krankenversicherung eines Versicherungs-Konzerns<br></br>
+- Abteilungsleiter im Controlling der Krankenversicherung eines Versicherungs-Konzerns<br></br>
+- IT-Berater in einem Versicherungs-Konzern<br></br>
+</p>
+<p>
+Nach diesen intensiven Erfahrungen auf der Seite der Versicherer und nach seiner Ausbildung zum <a href="https://aktuar.de/">Aktuar (DAV)</a> freut sich Herr Dr. Lenz nun den PKV-Kunden im undurchsichtigen Dschungel der privaten Kranken-Vollversicherung von Versicherern unabhängig zu beraten.
+</p>
+<p>
+Dr. Björn Lenz ist auch überzeugt von der Überlegenheit des deutschen Systems der privaten Kranken-Vollversicherung. Es liegt ihm sehr am Herzen den PKV-Kunden zu helfen, bestehende Missstände des Systems zu umschiffen und bestmögliche und finanzierbare Lösungen für die Kranken-Vollversicherung zu finden.
+</p>
+</div>
+    </div>
+  </div>
+</div>
+
+
+
+						
+						</div>						
+					</div>
+
+
+				</div>
+			</div>
+
+		</lift:surround>
+	</content>
+</cms>

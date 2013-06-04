@@ -1,0 +1,35 @@
+<cms path="/mainNavbar" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<content>
+				<div class="navbar navbar-fixed-top">
+					<div class="navbar-inner">
+						<div style="width: auto;" class="container">
+							<a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</a>
+							<a class="brand" href="index"> </a>
+							<div class="nav-collapse">
+								<ul class="nav">
+									<lift:xmenu active_class="active">
+										<li menu:class="active">
+											<a menu:href="index">
+												<span>
+													<menu:item />
+												</span> <!-- default menu stuff with no locgroup -->
+											</a>
+										</li>
+										<menu:divider />
+									</lift:xmenu>
+									
+								</ul>
+								<!-- <ul class="nav pull-right"> -->
+								<!-- <li><a href="/help"><span>Help <i class="icon-question-sign 
+									icon-white"></i></span></a></li> -->
+								<!-- </ul> -->
+							</div>
+						</div>
+					</div>
+				</div>
+	</content>
+</cms>
