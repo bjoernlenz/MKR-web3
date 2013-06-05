@@ -1,6 +1,6 @@
 <cms path="/mainNavbar" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<content>
-				<div class="navbar navbar-fixed-top">
+				<div class="navbar .navbar-static-top">
 					<div class="navbar-inner">
 						<div style="width: auto;" class="container">
 							<a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
