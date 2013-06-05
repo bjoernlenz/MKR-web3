@@ -102,7 +102,6 @@ div.navbar > div.navbar-inner > div.container > div.nav-collapse > ul.nav > li >
 .navbar .nav .active > a, .navbar .nav .active > a:hover {
     background-color: #003c6f;
     color: #FFFFFF;
-    font-weight: bold;
     text-decoration: none;
 }
 
