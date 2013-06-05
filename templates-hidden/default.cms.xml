@@ -26,6 +26,16 @@
 				</head>
 				<body>
 
+
+
+					<!-- if you want page specific navbars surround with lift:if test -->
+					<!-- for more info look at how this is done for quotes -->
+					<!-- The overall site menu -->
+
+					<div id="container-bg" class="container-fluid">
+						<div class="row-fluid">
+							<div class="span12">
+
 								<div class="row-fluid">
 									<div class="span12">
 										<div id="header">
@@ -37,17 +47,9 @@
 										</div>
 									</div>
 								</div>
+				
+									<lift:embed what="mainNavbar" />
 
-
-					<!-- if you want page specific navbars surround with lift:if test -->
-					<!-- for more info look at how this is done for quotes -->
-					<!-- The overall site menu -->
-					<lift:embed what="mainNavbar" />
-
-
-					<div id="container-bg" class="container-fluid">
-						<div class="row-fluid">
-							<div class="span12">
 				
 								<div id="content">
 									<lift:bind name="content" />
